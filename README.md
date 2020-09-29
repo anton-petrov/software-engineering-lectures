@@ -2,9 +2,7 @@
 
 [![Build Status](https://travis-ci.org/slowli/software-engineering-lectures.svg?branch=master)](https://travis-ci.org/slowli/software-engineering-lectures)
 
-Набор презентаций для лекций по программной инженерии для студентов Физико-технического учебно-научного центра НАН Украины.
-Сделаны с помощью (Xe)LaTeX и beamer.
-
+Набор презентаций для лекций по программной инженерии.
 (c) 2014, 2015, 2017, Алексей Островский
 
 Текст лекций доступен под лицензией [CC BY-SA 4.0 International](LICENSE).
